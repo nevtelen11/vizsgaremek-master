@@ -1,0 +1,93 @@
+[
+    {
+        "id": 1,
+        "name": "Kerékpározás",
+        "images":"./img/workout.jpg",
+        "about" : "Közös kerékpártúrák szervezésére ad lehetőséget."
+    },
+    {
+        "id": 2,
+        "name": "Tenisz",
+        "images":"./img/workout.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Futás",
+        "images":"./img/workout.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Túrázás",
+        "images":"./img/workout.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Kosárlabda",
+        "images":"./img/workout.jpg"
+    },
+    {
+        "id": 6,
+        "name": "E-sport",
+        "images":"./img/workout.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Golf",
+        "images":"./img/workout.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Futball",
+        "images":null
+    },
+    {
+        "id": 9,
+        "name": "Úszás",
+        "images":null
+    },
+    {
+        "id": 10,
+        "name": "Street Workout",
+        "images":"./img/workout.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Tollaslabda",
+        "images":null
+    },
+    {
+        "id": 12,
+        "name": "Billiárd",
+        "images":null
+    },
+    {
+        "id": 13,
+        "name": "Darts",
+        "images":null
+    },
+    {
+        "id": 14,
+        "name": "Yoga",
+        "images":null
+    },
+    {
+        "id": 15,
+        "name": "Falmászás",
+        "images":null
+    },
+    {
+        "id": 16,
+        "name": "Bowling",
+        "images":null
+    },
+    {
+        "id": 17,
+        "name": "Konditermi edzés",
+        "images":null
+    },
+    {
+        "id": 18,
+        "name": "Squash",
+        "images":null
+    }
+]
